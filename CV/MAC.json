@@ -27,6 +27,60 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Tigloo"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Fullstack Symfony/AngularJs",
+            "startDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de nuevas funcionalidades y análisis y refactor de los proyectos"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AJAX",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
@@ -83,6 +137,10 @@
           "name": "PHP",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Full-stack Developer"
       ]
     }
   }
