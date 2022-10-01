@@ -148,6 +148,21 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Curso superior de programacion c++ con CPA",
+        "startDate": "2021-11-01",
+        "institution": {
+          "name": "Deusto Formacion"
+        },
+        "linkedCompetences": [
+          {
+            "name": "C++",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
