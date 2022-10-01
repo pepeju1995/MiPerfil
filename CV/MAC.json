@@ -112,6 +112,43 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Técnico superior en desarrollo de aplicaciones Web",
+        "startDate": "2021-11-01",
+        "institution": {
+          "name": "CEAC"
+        },
+        "linkedCompetences": [
+          {
+            "name": "AJAX",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
