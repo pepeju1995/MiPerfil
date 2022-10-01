@@ -48,6 +48,10 @@
                 "type": "technology"
               },
               {
+                "name": "API",
+                "type": "technology"
+              },
+              {
                 "name": "AngularJS",
                 "type": "technology"
               },
