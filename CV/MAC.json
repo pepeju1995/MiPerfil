@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -13,8 +13,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -30,6 +29,52 @@
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Zankyou weddings"
+        },
+        "roles": [
+          {
+            "name": "Backend PHP developer",
+            "startDate": "2022-11-01",
+            "challenges": [
+              {
+                "description": "En mi día a día resuelvo las tareas adquiridas durante el planning del sprint que realizamos cada 15 días, además tenemos un tablero KANBAN del cual si tienes tiempo vamos resolviendo las incidencias más importantes. Mi mascota se basa tanto en resolver Bugs como en refactorizar y desarrollar nuevas funciones"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Datadog",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PHPStorm",
+                "type": "technology"
+              },
+              {
+                "name": "S3",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Tigloo"
@@ -93,8 +138,7 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "English"
       }
     ],
     "hardSkills": [
@@ -130,8 +174,7 @@
         "name": "Técnico superior en desarrollo de aplicaciones Web",
         "startDate": "2021-11-01",
         "institution": {
-          "name": "CEAC",
-          "description": ""
+          "name": "CEAC"
         },
         "linkedCompetences": [
           {
@@ -166,8 +209,7 @@
         "name": "Curso superior de programacion c++ con CPA",
         "startDate": "2021-11-01",
         "institution": {
-          "name": "Deusto Formacion",
-          "description": ""
+          "name": "Deusto Formacion"
         },
         "linkedCompetences": [
           {
@@ -206,7 +248,6 @@
         "Backend Developer",
         "Full-stack Developer"
       ]
-    },
-    "status": "openToOffers"
+    }
   }
 }
