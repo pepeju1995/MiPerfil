@@ -9,7 +9,7 @@
       "name": "Jose Juan",
       "surnames": "Pérez González",
       "title": "Desarrollador Web Fullstack Symfony/AngularJS",
-      "description": "En los 10 meses que llevo trabajando como desarrollador he descubierto entre otras muchas cosas que me gusta trabajar en equipo, no me vengo abajo ante los problemas que puedan surgir en el día a día y que si buscas bien siempre hay una solución.",
+      "description": "",
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
@@ -93,7 +93,8 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -129,7 +130,8 @@
         "name": "Técnico superior en desarrollo de aplicaciones Web",
         "startDate": "2021-11-01",
         "institution": {
-          "name": "CEAC"
+          "name": "CEAC",
+          "description": ""
         },
         "linkedCompetences": [
           {
@@ -164,7 +166,8 @@
         "name": "Curso superior de programacion c++ con CPA",
         "startDate": "2021-11-01",
         "institution": {
-          "name": "Deusto Formacion"
+          "name": "Deusto Formacion",
+          "description": ""
         },
         "linkedCompetences": [
           {
@@ -203,6 +206,7 @@
         "Backend Developer",
         "Full-stack Developer"
       ]
-    }
+    },
+    "status": "notAvailable"
   }
 }
