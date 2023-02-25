@@ -9,7 +9,7 @@
       "name": "Jose Juan",
       "surnames": "Pérez González",
       "title": "Desarrollador Web Fullstack Symfony/AngularJS",
-      "description": "",
+      "description": "Desde pequeño he estado siempre interesado en la tecnología, por ello decidí formarme en el mundo de la programación, tengo 2 años de experiencia desarrollando en back con PHP y MySQL además de la experiencia aportada por mi formación. Durante estos 2 anos de experiencia mencionados cabe destacar que he conseguido demostrar mi autosuficiencia para solucionar problemas, me gustan de hecho porque me hacen investigar y aprender más acerca del porque pasan muchas cosas, aunque también es cierto que esto se hace mejor cuando además tienes un gran equipo apoyando y aportando a tus soluciones cuando estás se queden estancadas. Sobre mi día a día, me gusta leer, escuchar música, hacer deporte y también paso bastante tiempo intentando no quedarme atrás y poniéndome al día con las novedades en el sector tecnológico.",
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
@@ -207,6 +207,6 @@
         "Full-stack Developer"
       ]
     },
-    "status": "notAvailable"
+    "status": "openToOffers"
   }
 }
