@@ -31,7 +31,8 @@
     "jobs": [
       {
         "organization": {
-          "name": "Zankyou weddings"
+          "name": "Zankyou weddings",
+          "URL": "https://www.zankyou.es"
         },
         "roles": [
           {
